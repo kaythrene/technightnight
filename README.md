@@ -8,3 +8,4 @@ My night light includes a photo resistor that causes the LED to light up. I desi
 My Input is the lightlevel of the photoresistor and an and the outputs is the LED lighting up. Here is my original tinkercad: [https://www.tinkercad.com/things/gVfvE2d4iF2/editel?sharecode=9KVXiNGDzlog34rlOVFR_UCIBsLUNFaQ4XjOofoFM04](url)
 <img width="458" alt="image" src="https://github.com/user-attachments/assets/de4db427-f9f8-40db-98bb-8ecc25d8b6b8" />
 <img width="720" alt="image" src="https://github.com/user-attachments/assets/93750b5e-cdd4-4684-afe7-34bd72c010cc" />
+![IMG_5366](https://github.com/user-attachments/assets/53017785-bd3c-486a-abc8-7ae534832435)
