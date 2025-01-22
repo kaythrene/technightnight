@@ -10,6 +10,6 @@ My Input is the lightlevel of the photoresistor and an and the outputs is the LE
 <img width="458" alt="image" src="https://github.com/user-attachments/assets/de4db427-f9f8-40db-98bb-8ecc25d8b6b8" />
 <img width="720" alt="image" src="https://github.com/user-attachments/assets/93750b5e-cdd4-4684-afe7-34bd72c010cc" />
 
-This is the diagram I used as a reference when I was soldering
+This is the diagram I used as a reference when I was soldering:
 
 ![IMG_5366](https://github.com/user-attachments/assets/53017785-bd3c-486a-abc8-7ae534832435)
