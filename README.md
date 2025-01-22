@@ -6,7 +6,8 @@ My night light includes a photo resistor that causes the LED to light up. I desi
 <img width="498" alt="Screenshot 2025-01-20 at 10 44 05 AM" src="https://github.com/user-attachments/assets/a38e1485-d613-485e-bf46-9d1afc681c89" />
 <img width="437" alt="Screenshot 2025-01-20 at 10 44 11 AM" src="https://github.com/user-attachments/assets/899a0e1f-a242-4fed-bee1-2ade1e65caab" />
 
-My Input is the lightlevel of the photoresistor and an and the outputs is the LED lighting up. Here is my original tinkercad: [https://www.tinkercad.com/things/gVfvE2d4iF2/editel?sharecode=9KVXiNGDzlog34rlOVFR_UCIBsLUNFaQ4XjOofoFM04](url)
+My Input is the lightlevel of the photoresistor and an and the outputs is the LED lighting up. Here is my original tinkercad: [https://www.tinkercad.com/things/gVfvE2d4iF2-midterm-final/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=9KVXiNGDzlog34rlOVFR_UCIBsLUNFaQ4XjOofoFM04](url)
+
 <img width="458" alt="image" src="https://github.com/user-attachments/assets/de4db427-f9f8-40db-98bb-8ecc25d8b6b8" />
 <img width="720" alt="image" src="https://github.com/user-attachments/assets/93750b5e-cdd4-4684-afe7-34bd72c010cc" />
 
